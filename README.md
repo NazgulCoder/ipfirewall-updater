@@ -38,7 +38,7 @@ Personal need. Upon request I can make changes to integrate it with Mikrotik or 
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [NazgulCoder]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
